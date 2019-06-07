@@ -1,0 +1,13 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFF;
+	height: 100%;
+	width: 100%;
+  }
+
+  .zdog-canvas {
+
+	  cursor: move;
+  }
